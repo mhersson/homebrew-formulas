@@ -1,8 +1,8 @@
   class Mpls < Formula
     desc "Markdown Preview Language Server with live browser preview"
     homepage "https://github.com/mhersson/mpls"
-    url "https://github.com/mhersson/mpls/archive/refs/tags/v0.20.0.tar.gz"
-    sha256 "b6b91e61d50df8518874b70257c82ab9e548541aca318da689440b8319d52c67"
+    url "https://github.com/mhersson/mpls/archive/refs/tags/v0.20.1.tar.gz"
+    sha256 "79bd4b6dab17c8d4a84ed04f109acc197af64789903ebc00f4a1af66470eba9b"
     license "Apache-2.0"
     head "https://github.com/mhersson/mpls.git", branch: "main"
 
