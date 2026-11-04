@@ -1,7 +1,6 @@
 class Aim < Formula
   desc "Terminal multiplexer for coding agents with live diffs and pull requests"
   homepage "https://github.com/mhersson/aim"
-  version "1.0.0-rc.1"
   license "MIT"
 
   on_macos do
