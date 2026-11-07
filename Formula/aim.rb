@@ -5,23 +5,23 @@ class Aim < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/mhersson/aim/releases/download/v1.0.0-rc.1/aim_1.0.0-rc.1_darwin_arm64.tar.gz"
-      sha256 "cc1883d1ba517910410bd0f483f5555b3109eb07aad5b7f9d62e8ad6470b649e"
+      url "https://github.com/mhersson/aim/releases/download/v1.0.0-rc.2/aim_1.0.0-rc.2_darwin_arm64.tar.gz"
+      sha256 "5abe50291874135c4f19e9cb4505602116dc6ff2e580603270e88db1a2773e85"
     end
     on_intel do
-      url "https://github.com/mhersson/aim/releases/download/v1.0.0-rc.1/aim_1.0.0-rc.1_darwin_amd64.tar.gz"
-      sha256 "46ed7e08b65584263e8fe798f26aa557da5d110b52de369431db7d147dee6275"
+      url "https://github.com/mhersson/aim/releases/download/v1.0.0-rc.2/aim_1.0.0-rc.2_darwin_amd64.tar.gz"
+      sha256 "453e6054f4a8b47c20a9f89395c9483849d4d3e6e5768b9e1c85db869eede328"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/mhersson/aim/releases/download/v1.0.0-rc.1/aim_1.0.0-rc.1_linux_arm64.tar.gz"
-      sha256 "246ec8a77b9c2fe95e1a377a0c868c7f7f065b0750ba3ca3e9e9a12bd8b5c5e3"
+      url "https://github.com/mhersson/aim/releases/download/v1.0.0-rc.2/aim_1.0.0-rc.2_linux_arm64.tar.gz"
+      sha256 "eb1724cc7d9d4fd5acd1507850304a283853488bcd50b5307bd30d54a10a6680"
     end
     on_intel do
-      url "https://github.com/mhersson/aim/releases/download/v1.0.0-rc.1/aim_1.0.0-rc.1_linux_amd64.tar.gz"
-      sha256 "516fc39a60b39503e8fddb364dbd1e123a35cc463b91133826b1cfe4231fa367"
+      url "https://github.com/mhersson/aim/releases/download/v1.0.0-rc.2/aim_1.0.0-rc.2_linux_amd64.tar.gz"
+      sha256 "28ec669568ef2a429bbbc03948b58799b49850eea00853f1f7840f33eaa28457"
     end
   end
 
